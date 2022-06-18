@@ -1,5 +1,5 @@
 :root {
-  --primary-color: rgba(221, 48, 17, 0.87);
+  --primary-color: rgba(211, 214, 217, 0.87);
   --primary-display: flex;
 }
 
@@ -30,6 +30,7 @@ header div {
 }
 
 header h1 {
+  background-color: var(--primary-color);
   font-weight: bold;
   font-size: 4.5vw;
   color: black;
@@ -38,6 +39,7 @@ header h1 {
 
 header nav {
   margin: 10px 0;
+  background-color: var(--primary-color);
 }
 
 header nav ul {
@@ -46,12 +48,14 @@ header nav ul {
   justify-content: space-between;
   align-items: center;
   list-style: none;
+  background-color: var(--primary-color);
 }
 
 header nav ul li a {
   padding: 10px 15px;
   font-weight: bold;
   font-size: 1.75vw;
+  background-color: var(--primary-color);
 }
 
 /* Header Stop */

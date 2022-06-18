@@ -32,7 +32,7 @@ function Work() {
                  <p>HTML/CSS</p>
                 </div>
                 <img
-                  src="./assets/images/horiseon.jpg"
+                  src={require('../../images/horiseon.jpg')}
                   alt="Horiseon Website Screenshot"
                 />
               </div>
@@ -44,7 +44,7 @@ function Work() {
                  <p>HTML/CSS/JS/JQUERY/APIs</p>
                 </div>
                 <img
-                  src="./assets/images/project1.jpg"
+                  src={require('../../images/project1.jpg')}
                   alt="Get Your Day Started Right Website Screenshot"
                 />
               </div>
@@ -56,7 +56,7 @@ function Work() {
                  <p>HTML/CSS</p>
                 </div>
                 <img
-                  src="./assets/images/work1.jpg"
+                  src={require('../../images/work1.jpg')}
                   alt="Run Buddy Website Screenshot"
                 />
               </div>
@@ -68,7 +68,7 @@ function Work() {
                  <p>HTML/CSS</p>
                 </div>
                 <img
-                  src="./assets/images/work1.jpg"
+                  src={require('../../images/work1.jpg')}
                   alt="Run Buddy Website Screenshot"
                 />
               </div>

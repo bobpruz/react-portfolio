@@ -18,7 +18,7 @@ function Header() {
             <a href="#contact-me">Contact Me</a>
           </li>
           <li>
-            <a href="./assets/documents/Resume.pdf" target="_blank">
+            <a href="/documents/Resume.pdf" target="_blank">
               Resume
             </a>
           </li>
