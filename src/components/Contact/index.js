@@ -15,10 +15,10 @@ function Contact() {
             <a href="mailto:bobpruz@gmail.com">Roberts Email</a>
           </li>
           <li>
-            <a href="http://github.com/bobpruz">GitHub</a>
+            <a href="http://github.com/bobpruz" target="_blank" rel="noreferrer">GitHub</a>
           </li>
           <li>
-            <a href="https://stackoverflow.com/users/18181340/bobpruz">
+            <a href="https://stackoverflow.com/users/18181340/bobpruz" target="_blank" rel="noreferrer">
               Stack Overflow
             </a>
           </li>
