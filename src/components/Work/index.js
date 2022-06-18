@@ -16,7 +16,7 @@ function Work() {
                 </div>
               <a href="https://bobpruz.github.io/runbuddy/index.html">
                 <img
-                  src="./assets/images/work1.jpg"
+                  src={require('../../images/work1.jpg')}
                   alt="Run Buddy Website Screenshot"
                 />
               </a>
