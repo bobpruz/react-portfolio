@@ -49,27 +49,27 @@ function Work() {
                 />
               </div>
             </a>
-            <a href="https://bobpruz.github.io/runbuddy/index.html">
+            <a href="https://bobpruz.github.io/passgen/index.html">
               <div class="work-cards">
                 <div class="language-small">
-                  <h4>Run Buddy</h4>
-                 <p>HTML/CSS</p>
+                  <h4>Password Generator</h4>
+                 <p>HTML/CSS/Java Script</p>
                 </div>
                 <img
-                  src={require('../../images/work1.jpg')}
-                  alt="Run Buddy Website Screenshot"
+                  src={require('../../images/passgen.jpg')}
+                  alt="Password Generator Website Screenshot"
                 />
               </div>
             </a>
-            <a href="https://bobpruz.github.io/runbuddy/index.html">
+            <a href="https://bobpruz.github.io/weather-dashboard/index.html">
               <div class="work-cards">
                 <div class="language-small">
-                  <h4>Run Buddy</h4>
-                 <p>HTML/CSS</p>
+                  <h4>Weather App</h4>
+                 <p>HTML/CSS/JQUERY/Bootstrap/APIs</p>
                 </div>
                 <img
-                  src={require('../../images/work1.jpg')}
-                  alt="Run Buddy Website Screenshot"
+                  src={require('../../images/weather.jpg')}
+                  alt="Weather App website Screenshot"
                 />
               </div>
             </a>
