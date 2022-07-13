@@ -11,13 +11,13 @@ function Work() {
           <div class="work1">
             <div class="work2">
               <div class="language-big">
-                 <h4>Run Buddy</h4>
-                 <p>HTML/CSS</p>
+                 <h4>Delicious Connection</h4>
+                 <p>MERN</p>
                 </div>
-              <a href="https://bobpruz.github.io/runbuddy/index.html">
+              <a href="https://delcon.herokuapp.com/">
                 <img
-                  src={require('../../images/work1.jpg')}
-                  alt="Run Buddy Website Screenshot"
+                  src={require('../../images/delcon.jpg')}
+                  alt="Delcon Website Screenshot"
                 />
               </a>
             </div>
